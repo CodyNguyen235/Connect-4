@@ -1,2 +1,4 @@
 # Connect4
-Ai 4 in a row project using alpha beta pruning
+Project Developed for CS 4200 - Artificial Intelligence
+
+The program is designed to play Connect 4, making the most optimal moves possible. It utilizes A* and Alpha Beta Pruning
